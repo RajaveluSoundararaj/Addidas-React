@@ -1,5 +1,5 @@
-# Addidas-React
-A sample project using Html/Css/React - Addidas
+# Adidas-React
+A sample project using Html/Css/React - Adidas
 
 This folder consist of an sample react project , For beginners 
 
